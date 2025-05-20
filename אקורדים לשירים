@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>שירי גיטרה</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>שירי גיטרה - בחר שיר</h1>
+  <ul>
+    <li><a href="#">סיבת הסיבות - ישי ריבו</a></li>
+    <li><a href="#">כאב של לוחמים - עידן עמדי</a></li>
+    <li><a href="#">עד הנצח - פאר טסי</a></li>
+    <li><a href="#">אצלנו בגן - שירי עטרי</a></li>
+    <li><a href="#">אני חוזר - מ</a></li>
+    <li><a href="#">סתלבט בקיבוץ - ג'ימבו ג'יי</a></li>
+    <li><a href="#">אמן על הילדים - חנן בן ארי</a></li>
+    <li><a href="#">תראי אהובתי - אושר כהן</a></li>
+  </ul>
+  <script src="script.js"></script>
+</body>
+</html>
