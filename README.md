@@ -1,2 +1,18 @@
-# Guitar-songs-chords-
-אקורדים ומילים לשירים בגירסא מקורית ופשוטה
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>אקורדים לגיטרה</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🎸 שירים ואקורדים לגיטרה</h1>
+  <ul>
+    <li><a href="#">סיבת הסיבות – ישי ריבו</a></li>
+    <li><a href="#">כאב של לוחמים – עידן עמדי</a></li>
+    <li><a href="#">תראי אהובתי – אושר כהן</a></li>
+    <li><a href="#">אמן על הילדים – חנן בן ארי</a></li>
+  </ul>
+  <p>נבנה על ידי: אתה 😊</p>
+</body>
+</html>
